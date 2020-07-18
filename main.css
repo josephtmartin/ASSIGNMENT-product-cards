@@ -27,7 +27,7 @@ body {
   justify-content: center;
   border: 1px solid lightblue;
   background-color: #0288d1;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 img {
@@ -38,15 +38,15 @@ img {
 }
 
 .pricing {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .specs {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .description {
-    text-align: justify;
+  text-align: justify;
 }
 
 .card:hover {
@@ -56,5 +56,5 @@ img {
 .availability {
   color: yellow;
   background-color: grey;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
