@@ -58,9 +58,3 @@ img {
   background-color: grey;
   font-family: "Roboto Mono", monospace;
 }
-
-@media (max-width: 600px) {
-  #container {
-    flex: 1 46%;
-  }
-}
