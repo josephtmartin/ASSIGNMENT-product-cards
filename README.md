@@ -10,6 +10,8 @@ This was made as a group exercise to create product cards for a company's produc
 
 ![Product Cards Demo](https://github.com/josephtmartin/ASSIGNMENT-product-cards/blob/master/demo/clothing-product-cards.PNG)
 
+[Product Cards Site](https://clothingproductcards.netlify.app/)
+
 ### Technologies Used
 
 * HTML
