@@ -8,7 +8,7 @@ This was made as a group exercise to create product cards for a company's produc
 
 ### Screenshot
 
-![Product Cards Demo](demo/clothing-product-cards.png)
+![Product Cards Demo](https://github.com/josephtmartin/ASSIGNMENT-product-cards/blob/master/demo/clothing-product-cards.PNG)
 
 ### Technologies Used
 
