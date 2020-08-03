@@ -14,4 +14,3 @@ This was made as a group exercise to create product cards for a company's produc
 
 * HTML
 * CSS
-* JavaScript
