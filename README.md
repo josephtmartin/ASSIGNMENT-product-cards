@@ -6,6 +6,10 @@ This was made as a group exercise to create product cards for a company's produc
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d96e89a9-7ef5-4f57-a0b5-35b03d7d2709/deploy-status)](https://app.netlify.com/sites/clothingproductcards/deploys)
 
+### Screenshot
+
+![Product Cards Demo](demo/clothing-product-cards.png)
+
 ### Technologies Used
 
 * HTML
