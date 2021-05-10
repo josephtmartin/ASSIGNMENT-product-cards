@@ -17,13 +17,7 @@ This was made as a group exercise to create product cards for a company's produc
 * HTML
 * CSS
 
-These were the Requirements:
 # Product Cards
-
-## Setup
-* While in `~/workspace/foundations/exercises`, make a directory called `product-cards`
-* Create a github repository called `product-cards` and push up a README.md file
-* Create a setup branch and push up the usual stuff
 
 ## Requirements
 
